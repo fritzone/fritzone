@@ -5,7 +5,8 @@
 ### Some older, but still fun projects:
 
 - 💀 A maze game: https://dungeons.sh
-- 🍲 An online recipe book from my home country: https://transylvanian.recipes
+- 🍲 A recipe book from home: http://transylvanian.recipes
+- 🔗 A personal file sharing site: https://cloudy.sh
 
 ### Some articles I wrote over the time
 
