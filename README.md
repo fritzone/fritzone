@@ -18,25 +18,12 @@ When time permits I publish in <a href="https://accu.org/">ACCU</a>'s Overload m
 - <a href="https://accu.org/journals/overload/26/146/overload146.pdf#page=10">miso: Micro Signal/Slot Implementation</a>
 - <a href="https://accu.org/journals/overload/28/159/overload159.pdf#page=26">The Edge of C++</a>
 
-<!--
+
 ### Help with development
 
-Keeping all the servers above online has its recurring monthly cost, all help is much appreciated
+Keeping all the servers above online has its recurring monthly cost, all help is much appreciated.
 
 <p align="center">
 <a href="https://paypal.me/ferencld" alt="Paypal"><img src="https://img.shields.io/badge/PayPal-support-blue.svg?logo=paypal"></a>
 </p>
 
-**fritzone/fritzone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
