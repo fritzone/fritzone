@@ -4,9 +4,7 @@
 
 ### Some older, but still fun projects:
 
-- 💀 A maze game: https://dungeons.sh
 - 🍲 A recipe book from home: http://transylvanian.recipes
-- 🔗 A personal file sharing site: https://cloudy.sh
 
 ### Some articles I wrote over the time
 
@@ -18,6 +16,9 @@ When time permits I publish in <a href="https://accu.org/">ACCU</a>'s Overload m
 - <a href="https://accu.org/journals/overload/26/146/overload146.pdf#page=10">miso: Micro Signal/Slot Implementation</a>
 - <a href="https://accu.org/journals/overload/28/159/overload159.pdf#page=26">The Edge of C++</a>
 
+### A book I co-authored
+
+<a href="https://www.amazon.com/Debunking-Myths-insightful-journey-misconceptions/dp/1835884784>Debunking C++ Myths</a>
 
 ### Help with development
 
