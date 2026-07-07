@@ -18,7 +18,7 @@ When time permits I publish in <a href="https://accu.org/">ACCU</a>'s Overload m
 
 ### A book I co-authored
 
-<a href="https://www.amazon.com/Debunking-Myths-insightful-journey-misconceptions/dp/1835884784>Debunking C++ Myths</a>
+<a href="https://www.amazon.com/Debunking-Myths-insightful-journey-misconceptions/dp/1835884784">Debunking C++ Myths</a>
 
 ### Help with development
 
